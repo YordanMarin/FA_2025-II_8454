@@ -7,7 +7,7 @@ while True:
         suma += i
     print("\n\nSuma: ",suma)
 
-    opc = input("\n¿Desea continuar? (S/N): ")
+    opc = input("\n¿Desea coontinuar? (S/N): ")
     if(opc == "N"):
         break
 
