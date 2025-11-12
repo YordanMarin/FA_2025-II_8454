@@ -23,6 +23,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEMANA9_PY", "SEMANA9_PY\SE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA10_C#", "SEMANA10_C#\SEMANA10_C#.csproj", "{87737D3F-667A-4FCA-B82D-295FAB361D7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA13", "SEMANA13\SEMANA13.csproj", "{F489462E-D30C-4932-8B61-8D97AB94DA78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{87737D3F-667A-4FCA-B82D-295FAB361D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87737D3F-667A-4FCA-B82D-295FAB361D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87737D3F-667A-4FCA-B82D-295FAB361D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F489462E-D30C-4932-8B61-8D97AB94DA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F489462E-D30C-4932-8B61-8D97AB94DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F489462E-D30C-4932-8B61-8D97AB94DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F489462E-D30C-4932-8B61-8D97AB94DA78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
